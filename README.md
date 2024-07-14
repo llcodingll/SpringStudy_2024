@@ -5,6 +5,7 @@
 ### 🔴 참고 강의
 - Spring 입문 - 김영한
 - Spring 기본 - 김영한
+- Spring DB 1편 - 김영한
 - Spring MVC 1편 - 김영한
 - JPA 활용 1편 - 김영한
 
